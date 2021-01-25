@@ -1,0 +1,6 @@
+/node_modules
+/.vscode
+*.s
+*.o
+*.prg
+*.d64

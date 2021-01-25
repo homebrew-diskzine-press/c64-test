@@ -1,0 +1,11 @@
+{
+  "name": "@homebrew-diskzine-press/c64-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/homebrew-diskzine-press/c64-test",
+  "author": "Duncan Cross <duncan.cross@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@homebrew-diskzine-press/cc65-node": "1.0.5"
+  }
+}
